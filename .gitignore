@@ -1,7 +1,6 @@
 # created by virtualenv automatically
-*
-bin
-share
-lib
+bin/
+share/
+lib/
 manage.py
 pyvenv.cfg
