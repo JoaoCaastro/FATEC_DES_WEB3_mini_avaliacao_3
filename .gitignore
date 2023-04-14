@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*
+bin
+share
+lib
+manage.py
+pyvenv.cfg
